@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this computational assay in your research, please cite it using the metadata below."
+title: "Computational Diagnostic Assay for ASL Discourse Exclusion Patterns"
+authors:
+  - family-names: "Markson"
+    given-names: "Phinn"
+    orcid: "0000-0002-9169-6095"
+version: 1.0.0
+date-released: "2026-06-18"
+url: "https://github.com/phinnphace/decoder"
+abstract: > This DOI provides the source code for a computational diagnostic assay designed to identify, structure, and log known failure patterns of vision models based upon their underlying training datasets.
+The assay surfaces correlational phraseologies paired with their anatomical counterparts, revealing failure clusters regardless of whether vision model (VM) authors disclose their training data (proprietary claims, incomplete documentation, etc.).
+ This diagnostic instrument brings training data transparency to light through user-reported failure modes.
+keywords:
+  - American Sign Language
+  - Discourse Analysis
+  - Computational Assay
+  - Equity
+  - Structured Elicitation
+  - LLM
+license: MIT  
